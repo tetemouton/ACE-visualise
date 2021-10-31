@@ -1,56 +1,56 @@
-All,Mod,Full
-AS,AS,American Samoa
-AU,AU,Australia
-CK,CK,Cook Islands
-CN,CN,China
-FJ,FJ,Fiji
-FM,FM,FSM
-GL,KI,Gilbert Islands
-GU,US,Guam
-H4,HS,HS pocket H4
-H5,HS,HS pocket H5
-HB,US,Howland Baker
-HW,US,Hawaii
-I1,HS,HS1
-I2,HS,HS2
-I3,HS,HS3
-I4,HS,HS4
-I5,HS,HS5
-I6,HS,HS6
-I7,HS,HS7
-I8,HS,HS8
-I9,HS,HS9
-ID,HS,Indonesia
-IW,IW,Misc International Waters
-JO,US,Johnston
-JP,JP,Japan
-JT,US,Johnston
-JV,US,Jarvis
-KI,KI,Kiribati
-LN,KI,Line Islands
-MA,MA,Mathew Hunter
-MH,MH,Marshall Islands
-MN,MN,Not sure
-MP,MP,Northern Mariana Islands
-NC,NC,New Caledonia
-NF,AU,Forfolk Island
-NR,NR,Nauru
-NU,NU,Niue
-NZ,NZ,New Zealand
-PF,PF,French Polynesia
-PG,PG,PNG
-PH,PH,Philippines
-PN,PN,Pitcairn Islands
-PW,PW,Palau
-PX,KI,Phoenix Islands
-PY,US,Palmyra
-SB,SB,Solomon Islands
-TK,TK,Tokelau
-TO,TO,Tonga
-TV,TV,Tuvalu
-TW,TW,Taiwan
-VN,VN,Vietnam
-VU,VU,Vanuatu
-WF,WF,Wallis Futuna
-WK,US,Wake Island
-WS,WS,Samoa
+All,Mod1,Mod2,Full,Partgrp,Grp
+AS,AS,AS,American Samoa,American Samoa,US Zones
+AU,AU,AU,Australia,Australia,FFA
+CK,CK,CK,Cook Islands,Cook Islands,FFA
+CN,CN,CN,China,Other,Other
+FJ,FJ,FJ,Fiji,Fiji,FFA
+FM,FM,FM,FSM,FSM,FFA
+GL,KI,KI,Kiribati,Kiribati,FFA
+GU,GU,US,Guam,US Zones,US Zones
+H4,H4,HS,HS4,High Seas,High Seas
+H5,H5,HS,HS5,High Seas,High Seas
+HB,HB,US,Howland Baker,US Zones,US Zones
+HW,HW,US,Hawaii,US Zones,US Zones
+I1,I1,HS,Int1,High Seas,High Seas
+I2,I2,HS,Int2,High Seas,High Seas
+I3,I3,HS,Int3,High Seas,High Seas
+I4,I4,HS,Int4,High Seas,High Seas
+I5,I5,HS,Int5,High Seas,High Seas
+I6,I6,HS,Int6,High Seas,High Seas
+I7,I7,HS,Int7,High Seas,High Seas
+I8,I8,HS,Int8,High Seas,High Seas
+I9,I9,HS,Int9,High Seas,High Seas
+ID,ID,HS,Indonesia,Indonesia,Other
+IW,IW,IW,Misc International Waters,Misc International Waters,Misc International Waters
+JO,JT,US,Johnston,US Zones,US Zones
+JP,JP,JP,Japan,Other,Other
+JT,JT,US,Johnston,US Zones,US Zones
+JV,JV,US,Jarvis,US Zones,US Zones
+KI,KI,KI,Kiribati,Kiribati,FFA
+LN,KI,KI,Kiribati,Kiribati,FFA
+MA,NC,MA,New Caledonia,New Caledonia,French
+MH,MH,MH,Marshall Islands,Marshall Islands,FFA
+MN,MN,MN,Not sure,Not sure,Not sure
+MP,MP,MP,Northern Mariana Islands,US Zones,US Zones
+NC,NC,NC,New Caledonia,New Caledonia,French
+NF,AU,AU,Australia,Australia,FFA
+NR,NR,NR,Nauru,Nauru,FFA
+NU,NU,NU,Niue,Niue,FFA
+NZ,NZ,NZ,New Zealand,New Zealand,FFA
+PF,PF,PF,French Polynesia,French Polynesia,French
+PG,PG,PG,PNG,PNG,FFA
+PH,PH,PH,Philippines,Philippines,Other
+PN,PN,PN,Pitcairn Islands,Pitcairn Islands,Other
+PW,PW,PW,Palau,Palau,FFA
+PX,KI,KI,Kiribati,Kiribati,FFA
+PY,PY,US,Palmyra,US Zones,US Zones
+SB,SB,SB,Solomon Islands,Solomon Islands,FFA
+TK,TK,TK,Tokelau,Tokelau,FFA
+TO,TO,TO,Tonga,Tonga,FFA
+TV,TV,TV,Tuvalu,Tuvalu,FFA
+TW,TW,TW,Taiwan,Taiwan,Other
+VN,VN,VN,Vietnam,Vietnam,Other
+VU,VU,VU,Vanuatu,Vanuatu,FFA
+WF,WF,WF,Wallis Futuna,Wallis Futuna,French
+WK,WK,US,Wake Island,US Zones,US Zones
+WS,WS,WS,Samoa,Samoa,FFA

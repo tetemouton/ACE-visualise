@@ -1,0 +1,3 @@
+1. For logsheet data what is alb_c vs alb_c_est etc.?
+2. Is number of unique set ID's approprate for summarising number of sets per year etc.?
+3. What are ez_id codes X1-X5 in vms database l_vms_days ?

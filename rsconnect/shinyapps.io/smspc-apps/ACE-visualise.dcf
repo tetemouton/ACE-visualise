@@ -1,0 +1,12 @@
+name: ACE-visualise
+title: ACE-visualise
+username:
+account: smspc-apps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4814827
+bundleId: 5152678
+url: https://smspc-apps.shinyapps.io/ACE-visualise/
+when: 1634615475.77389
+asMultiple: FALSE
+asStatic: FALSE
